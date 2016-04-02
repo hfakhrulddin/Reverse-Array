@@ -1,0 +1,5 @@
+C:\Div\Origin\Reverse String\Reverse String\bin\Debug\Reverse String.exe.config
+C:\Div\Origin\Reverse String\Reverse String\bin\Debug\Reverse String.exe
+C:\Div\Origin\Reverse String\Reverse String\bin\Debug\Reverse String.pdb
+C:\Div\Origin\Reverse String\Reverse String\obj\Debug\Reverse String.exe
+C:\Div\Origin\Reverse String\Reverse String\obj\Debug\Reverse String.pdb
